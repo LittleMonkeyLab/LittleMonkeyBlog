@@ -1,12 +1,10 @@
 ---
-title: "Welcome To My Blog"
-author: "Gordon Wright"
+title: "Welcome To The Jungle"
 date: "2022-10-01"
-categories: [news]
+categories: [News, Methods, Research, PS52007]
 ---
 
-This is the first post in a Quarto blog. Welcome!
-
+Here is some information for you
 
 
 
@@ -20,6 +18,5 @@ format(today, format="%d %B %Y")
 
 ## Acknowledgments {.appendix}
 
-Thank you to [Person1](https://twi) and [Person2](https://twitte) for their enduring awesomeness.
-
-
+Thank you everyone
+[Person1](https://www.bbc.co.uk/)

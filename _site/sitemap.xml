@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/welcome/index.html</loc>
-    <lastmod>2022-10-01T13:19:23.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/secondpost/index.html</loc>
-    <lastmod>2022-10-01T13:19:23.754Z</lastmod>
+    <loc>https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/FirstPost/index.html</loc>
+    <lastmod>2022-10-01T13:24:20.746Z</lastmod>
   </url>
   <url>
     <loc>https://littlemonkeylab.quarto.pub/littlemonkeyblog/index.html</loc>
-    <lastmod>2022-10-01T13:19:24.313Z</lastmod>
+    <lastmod>2022-10-01T13:24:21.351Z</lastmod>
   </url>
   <url>
     <loc>https://littlemonkeylab.quarto.pub/littlemonkeyblog/about.html</loc>
-    <lastmod>2022-10-01T13:19:24.623Z</lastmod>
+    <lastmod>2022-10-01T13:24:21.606Z</lastmod>
   </url>
 </urlset>

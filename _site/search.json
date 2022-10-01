@@ -1,38 +1,24 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/welcome/index.html#last-updated",
-    "href": "posts/welcome/index.html#last-updated",
-    "title": "Welcome To My Blog",
-    "section": "Last Updated",
-    "text": "Last Updated\n\n\n\n[1] \"01 October 2022\""
-  },
-  {
-    "objectID": "posts/welcome/index.html#acknowledgments",
-    "href": "posts/welcome/index.html#acknowledgments",
-    "title": "Welcome To My Blog",
-    "section": "Acknowledgments",
-    "text": "Acknowledgments\n\nThank you to Marlene Mhangami and Fernanda Foertter for reviewing this post."
-  },
-  {
-    "objectID": "posts/secondpost/index.html",
-    "href": "posts/secondpost/index.html",
+    "objectID": "posts/FirstPost/index.html",
+    "href": "posts/FirstPost/index.html",
     "title": "First post of the year",
     "section": "",
-    "text": "Code\n1 + 1\n\n\n[1] 2\n\n\n## Last Updated {.appendix}\n```{r}\n#| echo: false\ntoday <- Sys.Date()\nformat(today, format=\"%d %B %Y\")\n```\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{wright2022,\n  author = {Gordon Wright and Gordon Wright},\n  title = {First Post of the Year},\n  date = {2022-10-01},\n  url = {https://littlemonkeylab.quarto.pub/littlemonkeyblog//posts/secondpost},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nGordon Wright, and Gordon Wright. 2022. “First Post of the\nYear.” October 1, 2022. https://littlemonkeylab.quarto.pub/littlemonkeyblog//posts/secondpost."
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/FirstPost/index.html#last-updated",
+    "href": "posts/FirstPost/index.html#last-updated",
+    "title": "First post of the year",
+    "section": "Last Updated",
+    "text": "Last Updated\n\n\n\n[1] \"01 October 2022\""
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "LittleMonkeyBlog",
     "section": "",
-    "text": "Welcome To The Blog\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, October 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nFirst post of the year\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, October 1, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To The Jungle\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, October 1, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
