@@ -1,7 +1,7 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2022-09-28"
+author: "Gordon Wright"
+date: "2022-10-01"
 categories: [news]
 ---
 
@@ -10,3 +10,23 @@ This is the first post in a Quarto blog. Welcome!
 ![](thumbnail.jpg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+
+## Last Updated {.appendix}
+```{r}
+#| echo: false
+today <- Sys.Date()
+format(today, format="%d %B %Y")
+```
+
+
+<!--------------- appendices go here ----------------->
+
+## Acknowledgments {.appendix}
+
+Thank you to [Marlene Mhangami](https://twitter.com/marlene_zw) and [Fernanda Foertter](https://twitter.com/hpcprogrammer) for reviewing this post.
+
+
+
+```{r, echo=FALSE}
+source("appendix.R")
+```
