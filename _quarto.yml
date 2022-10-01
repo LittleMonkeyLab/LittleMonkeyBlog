@@ -1,5 +1,7 @@
 project:
   type: website
+mainfont: "Atkinson Hyperlegible"
+
 
 website:
   title: "LittleMonkeyBlog"
