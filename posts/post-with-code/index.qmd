@@ -1,8 +1,8 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2022-10-01"
-categories: [news, code, analysis]
+title: "Template post"
+author: "Gordon Wright"
+date: "2022-10-01
+categories: [News, Research, Methods]
 image: "image.jpg"
 ---
 
@@ -10,4 +10,12 @@ This is a post with executable code.
 
 ```{r}
 1 + 1
+```
+
+
+## Last Updated {.appendix}
+```{r}
+#| echo: false
+today <- Sys.Date()
+format(today, format="%d %B %Y")
 ```
