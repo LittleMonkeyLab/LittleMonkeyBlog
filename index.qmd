@@ -19,5 +19,4 @@ title-block-banner: true
 image: LMLLOGO.png
 ---
 
-test
-there was a wee cooper who lived in Fife
+Please peruse the content
