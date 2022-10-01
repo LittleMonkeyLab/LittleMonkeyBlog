@@ -1,9 +1,9 @@
 ---
-title: "Template post"
+title: "First post of the year"
 author: "Gordon Wright"
 date: "2022-10-01"
-categories: [News, Research, Methods]
-image: "image.jpg"
+categories: [News, Research, Methods, PS52007]
+image: "LMLLOGO.png"
 ---
 
 This is a post with executable code.
@@ -13,9 +13,11 @@ This is a post with executable code.
 ```
 
 
+```` default
 ## Last Updated {.appendix}
-```{r}
+```{{r}}
 #| echo: false
 today <- Sys.Date()
 format(today, format="%d %B %Y")
 ```
+````

@@ -6,15 +6,19 @@ logo: LMLLOGO.png
 post-render: randomizeFooterQuote.py
 
 
+
 website:
   title: "LittleMonkeyBlog"
   site-url: https://littlemonkeylab.quarto.pub/littlemonkeyblog/
+  description: "Monkeying about"
   repo-url: https://github.com/LittleMonkeyLab/LittleMonkeyBlog/
   twitter-card: true
   navbar:
-    background: yellow
+    background: "#fff5be"
     right:
       - about.qmd
+      - icon: rss
+        href: index.xml
       - icon: github
         aria-label: github
         href: https://github.com/LittleMonkeyLab/LittleMonkeyBlog/

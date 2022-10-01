@@ -6,13 +6,13 @@
       version="2.0">
 <channel>
 <title>LittleMonkeyBlog</title>
-<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/index.html</link>
-<atom:link href="https://littlemonkeylab.quarto.pub/littlemonkeyblog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/index.html#category=PS52007</link>
+<atom:link href="https://littlemonkeylab.quarto.pub/littlemonkeyblog/index-ps52007.xml" rel="self" type="application/rss+xml"/>
 <description>Monkeying about</description>
 <image>
 <url>https://littlemonkeylab.quarto.pub/littlemonkeyblog/LMLLOGO.png</url>
 <title>LittleMonkeyBlog</title>
-<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/index.html</link>
+<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/index.html#category=PS52007</link>
 <height>144</height>
 <width>144</width>
 </image>

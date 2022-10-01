@@ -3,7 +3,6 @@ title: "LittleMonkeyBlog"
 subtitle: "Just Monkeying Around"
 logo: LMLLOGO.png
 listing:
-  feed: true
   contents: posts
   date-format: full
   sort: "date desc"
@@ -12,6 +11,9 @@ listing:
   fields: [image, date, title, subtitle, description]
   sort-ui: false
   filter-ui: false
+  feed:
+    categories: 
+      - PS52007
 page-layout: article
 title-block-banner: true
 image: LMLLOGO.png
