@@ -13,11 +13,20 @@ This is a post with executable code.
 ```
 
 
-```` default
+
+
+
+
+
+
+<!--------------- appendices go here ----------------->
 ## Last Updated {.appendix}
-```{{r}}
+```{r}
 #| echo: false
 today <- Sys.Date()
 format(today, format="%d %B %Y")
 ```
-````
+
+## Acknowledgments {.appendix}
+
+Thank you to [Person1](https://twi) and [Person2](https://twitte) for their enduring awesomeness.

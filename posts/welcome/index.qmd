@@ -1,6 +1,5 @@
 ---
 title: "Welcome To The Blog"
-author: "Gordon Wright"
 date: "2022-10-01"
 categories: [News, Methods, Research, PS52007]
 ---
@@ -8,23 +7,14 @@ categories: [News, Methods, Research, PS52007]
 This is the first post in a Quarto blog. Welcome!
 
 
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
-
-
-```` default
+<!--------------- appendices go here ----------------->
 ## Last Updated {.appendix}
-```{{r}}
+```{r}
 #| echo: false
 today <- Sys.Date()
 format(today, format="%d %B %Y")
 ```
-````
-
-<!--------------- appendices go here ----------------->
 
 ## Acknowledgments {.appendix}
 
-Thank you to [Marlene Mhangami](https://twitter.com/marlene_zw) and [Fernanda Foertter](https://twitter.com/hpcprogrammer) for reviewing this post.
-
-
+Thank you to [Person1](link) and [Person2](link) for their enduring awesomeness.
