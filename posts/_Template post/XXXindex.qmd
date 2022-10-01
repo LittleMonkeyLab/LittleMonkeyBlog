@@ -26,7 +26,3 @@ format(today, format="%d %B %Y")
 Thank you to [Person1](https://twi) and [Person2](https://twitte) for their enduring awesomeness.
 
 
-
-```{r, echo=FALSE}
-source("appendix.R")
-```

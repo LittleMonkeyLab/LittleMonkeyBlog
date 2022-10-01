@@ -26,7 +26,3 @@ format(today, format="%d %B %Y")
 Thank you to [Marlene Mhangami](https://twitter.com/marlene_zw) and [Fernanda Foertter](https://twitter.com/hpcprogrammer) for reviewing this post.
 
 
-
-```{r, echo=FALSE}
-source("appendix.R")
-```
