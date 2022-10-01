@@ -1,21 +1,33 @@
 project:
   type: website
 mainfont: "Atkinson Hyperlegible"
+  
+logo: LMLLOGO.png
+post-render: randomizeFooterQuote.py
 
 
 website:
   title: "LittleMonkeyBlog"
+  site-url: https://littlemonkeylab.quarto.pub/littlemonkeyblog/
+  repo-url: https://github.com/LittleMonkeyLab/LittleMonkeyBlog/
+  twitter-card: true
   navbar:
+    background: yellow
     right:
       - about.qmd
       - icon: github
+        aria-label: github
         href: https://github.com/LittleMonkeyLab/LittleMonkeyBlog/
       - icon: twitter
+        aria-label: twitter
         href: https://twitter.com/littlemonkeylab/
+  page-footer: "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible - Richard Feynman"
+  google-analytics: "G-JCNXQM9CGQ"
 format:
   html:
-    theme: cosmo
+    theme: 
+      - simplex
+      - custom.scss
     css: styles.css
-
 editor: visual
 

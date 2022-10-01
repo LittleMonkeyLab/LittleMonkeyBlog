@@ -1,15 +1,21 @@
 ---
 title: "LittleMonkeyBlog"
+subtitle: "Just Monkeying Around"
 logo: LMLLOGO.png
 listing:
+  feed: true
   contents: posts
+  date-format: full
   sort: "date desc"
   type: default
   categories: true
+  fields: [image, date, title, subtitle, description]
   sort-ui: false
   filter-ui: false
 page-layout: article
 title-block-banner: true
+image: LMLLOGO.png
 ---
 
 test
+there was a wee cooper who lived in Fife

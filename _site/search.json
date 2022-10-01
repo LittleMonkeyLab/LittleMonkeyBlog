@@ -4,21 +4,21 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Code\n1 + 1\n\n\n[1] 2\n\n\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{wright2022,\n  author = {Gordon Wright and Harlow Malloc},\n  title = {Post {With} {Code}},\n  date = {2022-10-01},\n  url = {https://littlemonkeylab.quarto.pub/littlemonkeyblog//posts/post-with-code},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nGordon Wright, and Harlow Malloc. 2022. “Post With Code.”\nOctober 1, 2022. https://littlemonkeylab.quarto.pub/littlemonkeyblog//posts/post-with-code."
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{wright2022,\n  author = {Gordon Wright and Tristan O’Malley},\n  title = {Welcome {To} {My} {Blog}},\n  date = {2022-09-28},\n  url = {https://littlemonkeylab.quarto.pub/littlemonkeyblog//posts/welcome},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nGordon Wright, and Tristan O’Malley. 2022. “Welcome To My\nBlog.” September 28, 2022. https://littlemonkeylab.quarto.pub/littlemonkeyblog//posts/welcome."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "LittleMonkeyBlog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 28, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, October 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, September 28, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
