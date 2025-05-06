@@ -7,11 +7,25 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/FirstPost/index.html",
-    "href": "posts/FirstPost/index.html",
-    "title": "Welcome To The Jungle",
-    "section": "",
-    "text": "Testings!\nReuseCC BY 4.0CitationBibTeX citation:@online{wright2025,\n  author = {Wright, Gordon},\n  title = {Welcome {To} {The} {Jungle}},\n  date = {2025-05-06},\n  url = {https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/FirstPost/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nWright, Gordon. 2025. “Welcome To The Jungle.” May 6, 2025.\nhttps://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/FirstPost/."
+    "objectID": "posts/weird-science/index.html#introduction",
+    "href": "posts/weird-science/index.html#introduction",
+    "title": "Weird Science",
+    "section": "Introduction",
+    "text": "Introduction\nWrite your blog post content here."
+  },
+  {
+    "objectID": "posts/weird-science/index.html#main-content",
+    "href": "posts/weird-science/index.html#main-content",
+    "title": "Weird Science",
+    "section": "Main Content",
+    "text": "Main Content\nYour main content goes here."
+  },
+  {
+    "objectID": "posts/weird-science/index.html#conclusion",
+    "href": "posts/weird-science/index.html#conclusion",
+    "title": "Weird Science",
+    "section": "Conclusion",
+    "text": "Conclusion\nWrap up your post here."
   },
   {
     "objectID": "posts/micro-hack/index.html",
@@ -42,10 +56,17 @@
     "text": "Conclusion\nWrap up your post here."
   },
   {
+    "objectID": "posts/FirstPost/index.html",
+    "href": "posts/FirstPost/index.html",
+    "title": "Welcome To The Jungle",
+    "section": "",
+    "text": "Testings!\nReuseCC BY 4.0CitationBibTeX citation:@online{wright2025,\n  author = {Wright, Gordon},\n  title = {Welcome {To} {The} {Jungle}},\n  date = {2025-05-06},\n  url = {https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/FirstPost/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nWright, Gordon. 2025. “Welcome To The Jungle.” May 6, 2025.\nhttps://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/FirstPost/."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "LittleMonkeyBlog",
     "section": "",
-    "text": "Please peruse the content\n\n\n\n\n\n\n\n\n\n\nWelcome To The Jungle\n\n\n\n\n\n\n\n\n\n\n\nTuesday, May 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMicro-Hack\n\n\n\n\n\nAn overview of the Micro-Hack format and timeline\n\n\n\n\n\nTuesday, May 6, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Please peruse the content\n\n\n\n\n\n\n\n\n\n\nimage-alt: ““\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To The Jungle\n\n\n\n\n\n\n\n\n\n\n\nTuesday, May 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMicro-Hack\n\n\n\n\n\nAn overview of the Micro-Hack format and timeline\n\n\n\n\n\nTuesday, May 6, 2025\n\n\n\n\n\n\nNo matching items"
   }
 ]
