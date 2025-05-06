@@ -2,9 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/weird-science/index.html",
       "/posts/FirstPost/index.html",
-      "/posts/micro-hack/index.html"
+      "/posts/micro-hack/index.html",
+      "/posts/weird-science/index.html"
     ]
   }
 ]
