@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/FirstPost/index.html",
+    "href": "posts/FirstPost/index.html",
+    "title": "Welcome To The Jungle",
+    "section": "",
+    "text": "Here is some information for you"
+  },
+  {
+    "objectID": "posts/FirstPost/index.html#last-updated",
+    "href": "posts/FirstPost/index.html#last-updated",
+    "title": "Welcome To The Jungle",
+    "section": "Last Updated",
+    "text": "Last Updated\n\n\n\n[1] \"06 May 2025\""
+  },
+  {
+    "objectID": "posts/FirstPost/index.html#acknowledgments",
+    "href": "posts/FirstPost/index.html#acknowledgments",
+    "title": "Welcome To The Jungle",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\n\nThank you everyone Person1"
+  },
+  {
+    "objectID": "posts/micro-hack/index.html",
+    "href": "posts/micro-hack/index.html",
+    "title": "Micro-Hack",
+    "section": "",
+    "text": "Write your blog post content here."
+  },
+  {
+    "objectID": "posts/micro-hack/index.html#introduction",
+    "href": "posts/micro-hack/index.html#introduction",
+    "title": "Micro-Hack",
+    "section": "",
+    "text": "Write your blog post content here."
+  },
+  {
+    "objectID": "posts/micro-hack/index.html#main-content",
+    "href": "posts/micro-hack/index.html#main-content",
+    "title": "Micro-Hack",
+    "section": "Main Content",
+    "text": "Main Content\nYour main content goes here."
+  },
+  {
+    "objectID": "posts/micro-hack/index.html#conclusion",
+    "href": "posts/micro-hack/index.html#conclusion",
+    "title": "Micro-Hack",
+    "section": "Conclusion",
+    "text": "Conclusion\nWrap up your post here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LittleMonkeyBlog",
+    "section": "",
+    "text": "Please peruse the content\n\n\n\n\n\n\n\n\n\n\nMicro-Hack\n\n\n\n\n\nAn overview of the Micro-Hack format and timeline\n\n\n\n\n\nTuesday, May 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To The Jungle\n\n\n\n\n\n\n\n\n\n\n\nSaturday, October 1, 2022\n\n\n\n\n\n\nNo matching items"
+  }
+]
