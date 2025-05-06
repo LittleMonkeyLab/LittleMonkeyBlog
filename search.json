@@ -11,21 +11,7 @@
     "href": "posts/FirstPost/index.html",
     "title": "Welcome To The Jungle",
     "section": "",
-    "text": "Here is some information for you"
-  },
-  {
-    "objectID": "posts/FirstPost/index.html#last-updated",
-    "href": "posts/FirstPost/index.html#last-updated",
-    "title": "Welcome To The Jungle",
-    "section": "Last Updated",
-    "text": "Last Updated\n\n\n\n[1] \"06 May 2025\""
-  },
-  {
-    "objectID": "posts/FirstPost/index.html#acknowledgments",
-    "href": "posts/FirstPost/index.html#acknowledgments",
-    "title": "Welcome To The Jungle",
-    "section": "Acknowledgments",
-    "text": "Acknowledgments\n\nThank you everyone Person1"
+    "text": "Testings!\nReuseCC BY 4.0CitationBibTeX citation:@online{wright2025,\n  author = {Wright, Gordon},\n  title = {Welcome {To} {The} {Jungle}},\n  date = {2025-05-06},\n  url = {https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/FirstPost/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nWright, Gordon. 2025. “Welcome To The Jungle.” May 6, 2025.\nhttps://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/FirstPost/."
   },
   {
     "objectID": "posts/micro-hack/index.html",
@@ -60,6 +46,6 @@
     "href": "index.html",
     "title": "LittleMonkeyBlog",
     "section": "",
-    "text": "Please peruse the content\n\n\n\n\n\n\n\n\n\n\nMicro-Hack\n\n\n\n\n\nAn overview of the Micro-Hack format and timeline\n\n\n\n\n\nTuesday, May 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To The Jungle\n\n\n\n\n\n\n\n\n\n\n\nSaturday, October 1, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Please peruse the content\n\n\n\n\n\n\n\n\n\n\nWelcome To The Jungle\n\n\n\n\n\n\n\n\n\n\n\nTuesday, May 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMicro-Hack\n\n\n\n\n\nAn overview of the Micro-Hack format and timeline\n\n\n\n\n\nTuesday, May 6, 2025\n\n\n\n\n\n\nNo matching items"
   }
 ]
