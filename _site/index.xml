@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>LittleMonkeyBlog</title>
+<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/</link>
+<atom:link href="https://littlemonkeylab.quarto.pub/littlemonkeyblog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Monkeying about</description>
+<image>
+<url>https://littlemonkeylab.quarto.pub/littlemonkeyblog/LMLLOGO.png</url>
+<title>LittleMonkeyBlog</title>
+<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/</link>
+<height>144</height>
+<width>144</width>
+</image>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Getting Started with Data Analysis</title>
+  <dc:creator>Gordon Wright</dc:creator>
+  <link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Welcome to this example post! This demonstrates a well-structured blog post with multiple sections, code examples, and engaging content.</p>
+<p>Data analysis is a crucial skill in today’s data-driven world. Whether you’re working with scientific research, business intelligence, or exploring personal projects, understanding how to effectively analyze data can unlock valuable insights.</p>
+</section>
+<section id="key-concepts" class="level2">
+<h2 class="anchored" data-anchor-id="key-concepts">Key Concepts</h2>
+<section id="data-collection" class="level3">
+<h3 class="anchored" data-anchor-id="data-collection">Data Collection</h3>
+<p>The first step in any data analysis project is collecting your data. This can come from various sources:</p>
+<ul>
+<li><strong>Public datasets</strong>: Government databases, research repositories, or open data platforms</li>
+<li><strong>Surveys</strong>: Direct data collection through questionnaires</li>
+<li><strong>APIs</strong>: Programmatic access to data services</li>
+<li><strong>Web scraping</strong>: Extracting data from websites (with proper permissions)</li>
+</ul>
+</section>
+<section id="data-cleaning" class="level3">
+<h3 class="anchored" data-anchor-id="data-cleaning">Data Cleaning</h3>
+<p>Before you can analyze your data, you need to ensure it’s clean and ready for analysis:</p>
+<ol type="1">
+<li><strong>Remove duplicates</strong>: Eliminate redundant entries</li>
+<li><strong>Handle missing values</strong>: Decide on appropriate strategies (imputation, removal, etc.)</li>
+<li><strong>Standardize formats</strong>: Ensure consistent data types and formats</li>
+<li><strong>Validate data</strong>: Check for outliers and inconsistencies</li>
+</ol>
+</section>
+<section id="exploratory-data-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="exploratory-data-analysis">Exploratory Data Analysis</h3>
+<p>Once your data is clean, exploratory data analysis (EDA) helps you understand the patterns and relationships in your data:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> pandas <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> pd</span>
+<span id="cb1-2"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> matplotlib.pyplot <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> plt</span>
+<span id="cb1-3"></span>
+<span id="cb1-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Load your data</span></span>
+<span id="cb1-5">df <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> pd.read_csv(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'data.csv'</span>)</span>
+<span id="cb1-6"></span>
+<span id="cb1-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Basic statistics</span></span>
+<span id="cb1-8"><span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">print</span>(df.describe())</span>
+<span id="cb1-9"></span>
+<span id="cb1-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Visualize distributions</span></span>
+<span id="cb1-11">df.hist(figsize<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6</span>))</span>
+<span id="cb1-12">plt.show()</span></code></pre></div></div>
+</section>
+</section>
+<section id="best-practices" class="level2">
+<h2 class="anchored" data-anchor-id="best-practices">Best Practices</h2>
+<p>When conducting data analysis, keep these best practices in mind:</p>
+<ol type="1">
+<li><strong>Document your process</strong>: Keep track of all transformations and decisions</li>
+<li><strong>Version control</strong>: Use tools like Git to track changes to your analysis</li>
+<li><strong>Reproducibility</strong>: Ensure others can replicate your results</li>
+<li><strong>Ethical considerations</strong>: Respect privacy and data usage agreements</li>
+</ol>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>Data analysis is both an art and a science. With practice and the right tools, you can extract meaningful insights from even the most complex datasets. Remember to start simple, document everything, and always question your assumptions.</p>
+<p>Happy analyzing!</p>
+<!--------------- appendices go here ----------------->
+</section>
+
+
+
+<div id="quarto-appendix" class="default"><section id="last-updated" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Last Updated</h2><div class="quarto-appendix-contents">
+
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] "05 November 2025"</code></pre>
+</div>
+</div>
+</div></section><section id="acknowledgments" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Acknowledgments</h2><div class="quarto-appendix-contents">
+
+<p>Thank you for reading this example post! This demonstrates the structure and formatting of a typical blog entry.</p>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{wright2024,
+  author = {Wright, Gordon},
+  title = {Getting {Started} with {Data} {Analysis}},
+  date = {2024-01-15},
+  url = {https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-wright2024" class="csl-entry quarto-appendix-citeas">
+Wright, Gordon. 2024. <span>“Getting Started with Data Analysis.”</span>
+January 15, 2024. <a href="https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/">https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/</a>.
+</div></div></section></div> ]]></description>
+  <category>Data Science</category>
+  <category>Tutorial</category>
+  <category>Methods</category>
+  <guid>https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/</guid>
+  <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/RMIPHEX.png" medium="image" type="image/png"/>
+</item>
+</channel>
+</rss>

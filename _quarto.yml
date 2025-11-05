@@ -10,7 +10,7 @@ post-render: randomizeFooterQuote.py
 website:
   title: "LittleMonkeyBlog"
   favicon: images/LMLLOGO.png
-  site-url: https://littlemonkeylab.quarto.pub/littlemonkeyblog/
+  site-url: https://littlemonkeylab.github.io/LittleMonkeyBlog/
   description: "Monkeying about"
   repo-url: https://github.com/LittleMonkeyLab/LittleMonkeyBlog/
   twitter-card: true

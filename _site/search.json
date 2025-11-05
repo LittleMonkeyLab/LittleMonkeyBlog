@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/example-post/index.html",
+    "href": "posts/example-post/index.html",
+    "title": "Getting Started with Data Analysis",
+    "section": "",
+    "text": "Welcome to this example post! This demonstrates a well-structured blog post with multiple sections, code examples, and engaging content.\nData analysis is a crucial skill in today’s data-driven world. Whether you’re working with scientific research, business intelligence, or exploring personal projects, understanding how to effectively analyze data can unlock valuable insights."
+  },
+  {
+    "objectID": "posts/example-post/index.html#introduction",
+    "href": "posts/example-post/index.html#introduction",
+    "title": "Getting Started with Data Analysis",
+    "section": "",
+    "text": "Welcome to this example post! This demonstrates a well-structured blog post with multiple sections, code examples, and engaging content.\nData analysis is a crucial skill in today’s data-driven world. Whether you’re working with scientific research, business intelligence, or exploring personal projects, understanding how to effectively analyze data can unlock valuable insights."
+  },
+  {
+    "objectID": "posts/example-post/index.html#key-concepts",
+    "href": "posts/example-post/index.html#key-concepts",
+    "title": "Getting Started with Data Analysis",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nData Collection\nThe first step in any data analysis project is collecting your data. This can come from various sources:\n\nPublic datasets: Government databases, research repositories, or open data platforms\nSurveys: Direct data collection through questionnaires\nAPIs: Programmatic access to data services\nWeb scraping: Extracting data from websites (with proper permissions)\n\n\n\nData Cleaning\nBefore you can analyze your data, you need to ensure it’s clean and ready for analysis:\n\nRemove duplicates: Eliminate redundant entries\nHandle missing values: Decide on appropriate strategies (imputation, removal, etc.)\nStandardize formats: Ensure consistent data types and formats\nValidate data: Check for outliers and inconsistencies\n\n\n\nExploratory Data Analysis\nOnce your data is clean, exploratory data analysis (EDA) helps you understand the patterns and relationships in your data:\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\n# Load your data\ndf = pd.read_csv('data.csv')\n\n# Basic statistics\nprint(df.describe())\n\n# Visualize distributions\ndf.hist(figsize=(10, 6))\nplt.show()"
+  },
+  {
+    "objectID": "posts/example-post/index.html#best-practices",
+    "href": "posts/example-post/index.html#best-practices",
+    "title": "Getting Started with Data Analysis",
+    "section": "Best Practices",
+    "text": "Best Practices\nWhen conducting data analysis, keep these best practices in mind:\n\nDocument your process: Keep track of all transformations and decisions\nVersion control: Use tools like Git to track changes to your analysis\nReproducibility: Ensure others can replicate your results\nEthical considerations: Respect privacy and data usage agreements"
+  },
+  {
+    "objectID": "posts/example-post/index.html#conclusion",
+    "href": "posts/example-post/index.html#conclusion",
+    "title": "Getting Started with Data Analysis",
+    "section": "Conclusion",
+    "text": "Conclusion\nData analysis is both an art and a science. With practice and the right tools, you can extract meaningful insights from even the most complex datasets. Remember to start simple, document everything, and always question your assumptions.\nHappy analyzing!"
+  },
+  {
+    "objectID": "posts/example-post/index.html#last-updated",
+    "href": "posts/example-post/index.html#last-updated",
+    "title": "Getting Started with Data Analysis",
+    "section": "Last Updated",
+    "text": "Last Updated\n\n\n\n[1] \"05 November 2025\""
+  },
+  {
+    "objectID": "posts/example-post/index.html#acknowledgments",
+    "href": "posts/example-post/index.html#acknowledgments",
+    "title": "Getting Started with Data Analysis",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\n\nThank you for reading this example post! This demonstrates the structure and formatting of a typical blog entry."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LittleMonkeyBlog",
+    "section": "",
+    "text": "Welcome to LittleMonkeyBlog! This is a space for exploring ideas, sharing insights, and documenting interesting discoveries.\nBrowse through the posts below to find topics that interest you. You can filter by category or use the search functionality to find specific content. Each post includes detailed information, code examples, and practical insights."
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "LittleMonkeyBlog",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nThe listing below shows all available posts, sorted by date with the most recent first. Click on any post to read the full content."
+  }
+]

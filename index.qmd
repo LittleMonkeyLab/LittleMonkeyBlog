@@ -6,11 +6,12 @@ listing:
   contents: posts
   date-format: full
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
-  fields: [image, date, title, subtitle, description]
-  sort-ui: false
-  filter-ui: false
+  fields: [image, date, title, description]
+  sort-ui: true
+  filter-ui: true
+  page-size: 10
   feed:
     categories: 
       - PS52007
@@ -19,4 +20,14 @@ title-block-banner: true
 image: LMLLOGO.png
 ---
 
-Please peruse the content
+Welcome to **LittleMonkeyBlog**! This is a space for exploring ideas, sharing insights, and documenting interesting discoveries.
+
+Browse through the posts below to find topics that interest you. You can filter by category or use the search functionality to find specific content. Each post includes detailed information, code examples, and practical insights.
+
+::: callout-note
+This blog is built with [Quarto](https://quarto.org/), a powerful publishing system for scientific and technical computing. All content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+:::
+
+## Recent Posts
+
+The listing below shows all available posts, sorted by date with the most recent first. Click on any post to read the full content.
