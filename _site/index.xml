@@ -6,22 +6,97 @@
       version="2.0">
 <channel>
 <title>LittleMonkeyBlog</title>
-<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/</link>
-<atom:link href="https://littlemonkeylab.quarto.pub/littlemonkeyblog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://littlemonkeylab.github.io/LittleMonkeyBlog/</link>
+<atom:link href="https://littlemonkeylab.github.io/LittleMonkeyBlog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Monkeying about</description>
 <image>
-<url>https://littlemonkeylab.quarto.pub/littlemonkeyblog/LMLLOGO.png</url>
+<url>https://littlemonkeylab.github.io/LittleMonkeyBlog/LMLLOGO.png</url>
 <title>LittleMonkeyBlog</title>
-<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/</link>
+<link>https://littlemonkeylab.github.io/LittleMonkeyBlog/</link>
 <height>144</height>
 <width>144</width>
 </image>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>A wandering Minstrel, I</title>
+  <dc:creator>Gordon Wright</dc:creator>
+  <link>https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/a-wandering-minstrel-i/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Write your introduction here. This is where you hook your readers and introduce the main topic.</p>
+</section>
+<section id="main-content" class="level2">
+<h2 class="anchored" data-anchor-id="main-content">Main Content</h2>
+<p>Add your main content here. You can include:</p>
+<ul>
+<li>Lists</li>
+<li><strong>Bold text</strong></li>
+<li><em>Italic text</em></li>
+<li>Code blocks</li>
+<li>And more!</li>
+</ul>
+<section id="subsections" class="level3">
+<h3 class="anchored" data-anchor-id="subsections">Subsections</h3>
+<p>You can organize your content with subsections like this.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Example code block</span></span>
+<span id="cb1-2"><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">def</span> example():</span>
+<span id="cb1-3">    <span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">print</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Hello, world!"</span>)</span></code></pre></div></div>
+</section>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>Wrap up your post with a conclusion that summarizes key points and provides next steps or takeaways.</p>
+<!--------------- appendices go here ----------------->
+</section>
+
+
+
+<div id="quarto-appendix" class="default"><section id="last-updated" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Last Updated</h2><div class="quarto-appendix-contents">
+
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] "05 November 2025"</code></pre>
+</div>
+</div>
+</div></section><section id="acknowledgments" class="level2 appendix"><h2 class="anchored quarto-appendix-heading">Acknowledgments</h2><div class="quarto-appendix-contents">
+
+<p>Thank you for reading!</p>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{wright2025,
+  author = {Wright, Gordon},
+  title = {A Wandering {Minstrel,} {I}},
+  date = {2025-11-05},
+  url = {https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/a-wandering-minstrel-i/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-wright2025" class="csl-entry quarto-appendix-citeas">
+Wright, Gordon. 2025. <span>“A Wandering Minstrel, I.”</span> November
+5, 2025. <a href="https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/a-wandering-minstrel-i/">https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/a-wandering-minstrel-i/</a>.
+</div></div></section></div> ]]></description>
+  <category>News</category>
+  <category>Methods</category>
+  <category>Research</category>
+  <guid>https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/a-wandering-minstrel-i/</guid>
+  <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Getting Started with Data Analysis</title>
   <dc:creator>Gordon Wright</dc:creator>
-  <link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/</link>
+  <link>https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/example-post/</link>
   <description><![CDATA[ 
 
 
@@ -130,19 +205,19 @@ font-style: inherit;">6</span>))</span>
   author = {Wright, Gordon},
   title = {Getting {Started} with {Data} {Analysis}},
   date = {2024-01-15},
-  url = {https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/},
+  url = {https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/example-post/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-wright2024" class="csl-entry quarto-appendix-citeas">
 Wright, Gordon. 2024. <span>“Getting Started with Data Analysis.”</span>
-January 15, 2024. <a href="https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/">https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/</a>.
+January 15, 2024. <a href="https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/example-post/">https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/example-post/</a>.
 </div></div></section></div> ]]></description>
   <category>Data Science</category>
   <category>Tutorial</category>
   <category>Methods</category>
-  <guid>https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/</guid>
+  <guid>https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/example-post/</guid>
   <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://littlemonkeylab.quarto.pub/littlemonkeyblog/posts/example-post/RMIPHEX.png" medium="image" type="image/png"/>
+  <media:content url="https://littlemonkeylab.github.io/LittleMonkeyBlog/posts/example-post/RMIPHEX.png" medium="image" type="image/png" height="165" width="144"/>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,15 @@
+{
+  "hash": "51e58d756ed07c1fb83970126b329178",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"A wandering Minstrel, I\"\ndate: \"2025-11-05\"\ncategories: ['News', 'Methods', 'Research']\ndescription: \"A new blog post\"\n---\n\n## Introduction\n\nWrite your introduction here. This is where you hook your readers and introduce the main topic.\n\n## Main Content\n\nAdd your main content here. You can include:\n\n-   Lists\n-   **Bold text**\n-   *Italic text*\n-   Code blocks\n-   And more!\n\n### Subsections\n\nYou can organize your content with subsections like this.\n\n``` python\n# Example code block\ndef example():\n    print(\"Hello, world!\")\n```\n\n## Conclusion\n\nWrap up your post with a conclusion that summarizes key points and provides next steps or takeaways.\n\n<!--------------- appendices go here ----------------->\n\n## Last Updated {.appendix}\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"05 November 2025\"\n```\n\n\n:::\n:::\n\n\n## Acknowledgments {.appendix}\n\nThank you for reading!",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

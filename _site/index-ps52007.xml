@@ -6,17 +6,17 @@
       version="2.0">
 <channel>
 <title>LittleMonkeyBlog</title>
-<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/#category=PS52007</link>
-<atom:link href="https://littlemonkeylab.quarto.pub/littlemonkeyblog/index-ps52007.xml" rel="self" type="application/rss+xml"/>
+<link>https://littlemonkeylab.github.io/LittleMonkeyBlog/#category=PS52007</link>
+<atom:link href="https://littlemonkeylab.github.io/LittleMonkeyBlog/index-ps52007.xml" rel="self" type="application/rss+xml"/>
 <description>Monkeying about</description>
 <image>
-<url>https://littlemonkeylab.quarto.pub/littlemonkeyblog/LMLLOGO.png</url>
+<url>https://littlemonkeylab.github.io/LittleMonkeyBlog/LMLLOGO.png</url>
 <title>LittleMonkeyBlog</title>
-<link>https://littlemonkeylab.quarto.pub/littlemonkeyblog/#category=PS52007</link>
+<link>https://littlemonkeylab.github.io/LittleMonkeyBlog/#category=PS52007</link>
 <height>144</height>
 <width>144</width>
 </image>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Wed, 05 Nov 2025 21:42:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 22:09:23 GMT</lastBuildDate>
 </channel>
 </rss>

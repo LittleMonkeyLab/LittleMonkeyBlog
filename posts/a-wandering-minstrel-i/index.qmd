@@ -1,0 +1,48 @@
+---
+title: "A wandering Minstrel, I"
+date: "2025-11-05"
+categories: ['News', 'Methods', 'Research']
+description: "A new blog post"
+---
+
+## Introduction
+
+Write your introduction here. This is where you hook your readers and introduce the main topic.
+
+## Main Content
+
+Add your main content here. You can include:
+
+-   Lists
+-   **Bold text**
+-   *Italic text*
+-   Code blocks
+-   And more!
+
+### Subsections
+
+You can organize your content with subsections like this.
+
+``` python
+# Example code block
+def example():
+    print("Hello, world!")
+```
+
+## Conclusion
+
+Wrap up your post with a conclusion that summarizes key points and provides next steps or takeaways.
+
+<!--------------- appendices go here ----------------->
+
+## Last Updated {.appendix}
+
+```{r}
+#| echo: false
+today <- Sys.Date()
+format(today, format="%d %B %Y")
+```
+
+## Acknowledgments {.appendix}
+
+Thank you for reading!

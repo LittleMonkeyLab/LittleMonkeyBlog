@@ -4,8 +4,7 @@
     {
       "label": "Create New Blog Post",
       "type": "shell",
-      "command": "uv run new_post.py",
-      "args": ["${input:postTitle}"],
+      "command": "python3 new_post.py \"${input:postTitle}\"",
       "problemMatcher": [],
       "presentation": {
         "reveal": "always",

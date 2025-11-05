@@ -68,5 +68,96 @@
     "title": "LittleMonkeyBlog",
     "section": "Recent Posts",
     "text": "Recent Posts\nThe listing below shows all available posts, sorted by date with the most recent first. Click on any post to read the full content."
+  },
+  {
+    "objectID": "posts/a-wandering-minstrel-i/index.html",
+    "href": "posts/a-wandering-minstrel-i/index.html",
+    "title": "A wandering Minstrel, I",
+    "section": "",
+    "text": "Write your introduction here. This is where you hook your readers and introduce the main topic."
+  },
+  {
+    "objectID": "posts/a-wandering-minstrel-i/index.html#introduction",
+    "href": "posts/a-wandering-minstrel-i/index.html#introduction",
+    "title": "A wandering Minstrel, I",
+    "section": "",
+    "text": "Write your introduction here. This is where you hook your readers and introduce the main topic."
+  },
+  {
+    "objectID": "posts/a-wandering-minstrel-i/index.html#main-content",
+    "href": "posts/a-wandering-minstrel-i/index.html#main-content",
+    "title": "A wandering Minstrel, I",
+    "section": "Main Content",
+    "text": "Main Content\nAdd your main content here. You can include:\n\nLists\nBold text\nItalic text\nCode blocks\nAnd more!\n\n\nSubsections\nYou can organize your content with subsections like this.\n# Example code block\ndef example():\n    print(\"Hello, world!\")"
+  },
+  {
+    "objectID": "posts/a-wandering-minstrel-i/index.html#conclusion",
+    "href": "posts/a-wandering-minstrel-i/index.html#conclusion",
+    "title": "A wandering Minstrel, I",
+    "section": "Conclusion",
+    "text": "Conclusion\nWrap up your post with a conclusion that summarizes key points and provides next steps or takeaways."
+  },
+  {
+    "objectID": "posts/a-wandering-minstrel-i/index.html#last-updated",
+    "href": "posts/a-wandering-minstrel-i/index.html#last-updated",
+    "title": "A wandering Minstrel, I",
+    "section": "Last Updated",
+    "text": "Last Updated\n\n\n\n[1] \"05 November 2025\""
+  },
+  {
+    "objectID": "posts/a-wandering-minstrel-i/index.html#acknowledgments",
+    "href": "posts/a-wandering-minstrel-i/index.html#acknowledgments",
+    "title": "A wandering Minstrel, I",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\n\nThank you for reading!"
+  },
+  {
+    "objectID": "QUICK_START.html",
+    "href": "QUICK_START.html",
+    "title": "Quick Start Guide",
+    "section": "",
+    "text": "python3 new_post.py \"Your Post Title\"\n\n\n\nquarto preview\nThen open http://localhost:4200 in your browser.\n\n\n\ngit add .\ngit commit -m \"Add new post\"\ngit push origin main\nGitHub Actions will automatically deploy it!\n\n\n\nPress Cmd+Shift+P (Mac) or Ctrl+Shift+P (Windows/Linux), then:\n\n“Create New Blog Post” - Create a new post (prompts for title)\n“Preview Blog (Local)” - Start local preview server\n“Render Blog” - Build the site\n“Quick Publish (Render + Push)” - One-step publish\n\n\n\n\nEach post lives in posts/[slug]/index.qmd with this structure:\n---\ntitle: \"Your Title\"\ndate: \"YYYY-MM-DD\"\ncategories: [Category1, Category2]\ndescription: \"Brief description\"\n---\n\n\n\n\nUse new_post.py to create posts with proper structure\nPreview before pushing to catch errors early\nPosts auto-deploy on push to main\nCheck .cursor/instructions.md for detailed workflow"
+  },
+  {
+    "objectID": "QUICK_START.html#create-a-new-post",
+    "href": "QUICK_START.html#create-a-new-post",
+    "title": "Quick Start Guide",
+    "section": "",
+    "text": "python3 new_post.py \"Your Post Title\""
+  },
+  {
+    "objectID": "QUICK_START.html#preview-your-blog",
+    "href": "QUICK_START.html#preview-your-blog",
+    "title": "Quick Start Guide",
+    "section": "",
+    "text": "quarto preview\nThen open http://localhost:4200 in your browser."
+  },
+  {
+    "objectID": "QUICK_START.html#publish-your-blog",
+    "href": "QUICK_START.html#publish-your-blog",
+    "title": "Quick Start Guide",
+    "section": "",
+    "text": "git add .\ngit commit -m \"Add new post\"\ngit push origin main\nGitHub Actions will automatically deploy it!"
+  },
+  {
+    "objectID": "QUICK_START.html#cursor-shortcuts",
+    "href": "QUICK_START.html#cursor-shortcuts",
+    "title": "Quick Start Guide",
+    "section": "",
+    "text": "Press Cmd+Shift+P (Mac) or Ctrl+Shift+P (Windows/Linux), then:\n\n“Create New Blog Post” - Create a new post (prompts for title)\n“Preview Blog (Local)” - Start local preview server\n“Render Blog” - Build the site\n“Quick Publish (Render + Push)” - One-step publish"
+  },
+  {
+    "objectID": "QUICK_START.html#post-template",
+    "href": "QUICK_START.html#post-template",
+    "title": "Quick Start Guide",
+    "section": "",
+    "text": "Each post lives in posts/[slug]/index.qmd with this structure:\n---\ntitle: \"Your Title\"\ndate: \"YYYY-MM-DD\"\ncategories: [Category1, Category2]\ndescription: \"Brief description\"\n---"
+  },
+  {
+    "objectID": "QUICK_START.html#tips",
+    "href": "QUICK_START.html#tips",
+    "title": "Quick Start Guide",
+    "section": "",
+    "text": "Use new_post.py to create posts with proper structure\nPreview before pushing to catch errors early\nPosts auto-deploy on push to main\nCheck .cursor/instructions.md for detailed workflow"
   }
 ]
