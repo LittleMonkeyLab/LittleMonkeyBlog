@@ -29,8 +29,6 @@ jobs:
 
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          version: prerelease
 
       - name: Restore R package cache
         uses: actions/cache@v4

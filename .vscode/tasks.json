@@ -1,0 +1,66 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Create New Blog Post",
+      "type": "shell",
+      "command": "uv run new_post.py",
+      "args": ["${input:postTitle}"],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "Preview Blog (Local)",
+      "type": "shell",
+      "command": "quarto preview",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "isBackground": true
+    },
+    {
+      "label": "Render Blog",
+      "type": "shell",
+      "command": "quarto render",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "Publish Blog (Git Push)",
+      "type": "shell",
+      "command": "git push origin main",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "dependsOn": "Render Blog"
+    },
+    {
+      "label": "Quick Publish (Render + Push)",
+      "type": "shell",
+      "command": "quarto render && git add . && git commit -m 'Update blog' && git push origin main",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "id": "postTitle",
+      "type": "promptString",
+      "description": "Enter the title of your new blog post:"
+    }
+  ]
+}
+

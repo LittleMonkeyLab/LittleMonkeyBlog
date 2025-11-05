@@ -1,0 +1,25 @@
+{
+  "files.associations": {
+    "*.qmd": "markdown"
+  },
+  "markdown.preview.breaks": true,
+  "markdown.preview.linkify": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  },
+  "files.exclude": {
+    "**/_site": true,
+    "**/_freeze": true
+  },
+  "search.exclude": {
+    "**/_site": true,
+    "**/_freeze": true
+  }
+}
+
