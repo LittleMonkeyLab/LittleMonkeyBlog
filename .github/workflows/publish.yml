@@ -27,13 +27,6 @@ jobs:
         with:
           r-version: '4.3'
 
-      - name: Setup R System Dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          extra-packages: |
-            any::rcmdcheck
-            any::remotes
-
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
@@ -56,12 +49,6 @@ jobs:
         run: |
           Rscript -e "if (!require('renv')) install.packages('renv', repos = c(CRAN = 'https://cloud.r-project.org'))"
           Rscript -e "renv::restore()"
-
-      - name: Install Python dependencies
-        run: |
-          python3 -m pip install --upgrade pip
-          # Install any Python packages needed for the post-render script if needed
-          # pip install package-name
 
       - name: Render Quarto site
         run: |

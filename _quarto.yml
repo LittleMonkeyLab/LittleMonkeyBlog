@@ -3,7 +3,6 @@ project:
 mainfont: "Atkinson Hyperlegible"
   
 logo: LMLLOGO.png
-post-render: randomizeFooterQuote.py
 
 
 
